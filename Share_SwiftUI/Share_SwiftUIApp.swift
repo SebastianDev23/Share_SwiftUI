@@ -2,7 +2,7 @@
 //  Share_SwiftUIApp.swift
 //  Share_SwiftUI
 //
-//  Created by Sebastian Klösel on 12.01.22.
+//  Created by Sebastian Kl
 //
 
 import SwiftUI

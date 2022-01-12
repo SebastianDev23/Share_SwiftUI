@@ -11,6 +11,7 @@
 		C909C4A1278F60DC009D3947 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C909C4A0278F60DC009D3947 /* ContentView.swift */; };
 		C909C4A3278F60DF009D3947 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C909C4A2278F60DF009D3947 /* Assets.xcassets */; };
 		C909C4A6278F60DF009D3947 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C909C4A5278F60DF009D3947 /* Preview Assets.xcassets */; };
+		C909C4AD278F627A009D3947 /* SahreModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C909C4AC278F627A009D3947 /* SahreModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C909C4A0278F60DC009D3947 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C909C4A2278F60DF009D3947 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C909C4A5278F60DF009D3947 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C909C4AC278F627A009D3947 /* SahreModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SahreModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C909C49E278F60DC009D3947 /* Share_SwiftUIApp.swift */,
 				C909C4A0278F60DC009D3947 /* ContentView.swift */,
+				C909C4AC278F627A009D3947 /* SahreModel.swift */,
 				C909C4A2278F60DF009D3947 /* Assets.xcassets */,
 				C909C4A4278F60DF009D3947 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C909C4AD278F627A009D3947 /* SahreModel.swift in Sources */,
 				C909C4A1278F60DC009D3947 /* ContentView.swift in Sources */,
 				C909C49F278F60DC009D3947 /* Share_SwiftUIApp.swift in Sources */,
 			);
